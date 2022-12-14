@@ -6,9 +6,10 @@
 
 Miscellaneous: </br>
 Also working at https://grape.org.pl/hdrazkowski  </br>
-Not to be confused, second rubbish github for forking mainly:  https://github.com/hubertmarekdrazkowski </br>
+
 
 <!---
+Not to be confused, second rubbish github for forking mainly:  https://github.com/hubertmarekdrazkowski </br>
 HubertDrazkowski/HubertDrazkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
