@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research projects on sequential decision making.
 - 📫 You can reach me by https://www.linkedin.com/in/hubert-dr%C4%85%C5%BCkowski/
 
-Miscellaneous:
+Miscellaneous: </br>
 Also working at https://grape.org.pl/hdrazkowski  </br>
 Not to be confused, second rubbish github for forking mainly:  https://github.com/hubertmarekdrazkowski </br>
 
