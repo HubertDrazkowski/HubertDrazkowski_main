@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HubertDrazkowski
-- 👀 I’m mesmerized by Statistics and it's application in AI. In particular machine learning theory with special feeling for sequential decision making and causal inference.
+- 👀 I’m mesmerized by Statistics and it's applications. In particular, I am fond of machine learning theory with special feeling for sequential decision making and causal inference.
 - 🌱 I have just finished my MA at Warsaw Uni of Technology.
 - 💞️ I’m looking to collaborate on research projects on sequential decision making.
 - 📫 You can reach me by https://www.linkedin.com/in/hubert-dr%C4%85%C5%BCkowski/
